@@ -68,3 +68,8 @@ a {
 .fade-degree {
   color: #7b858f;
 }
+
+.link-to-git {
+  text-align: center;
+  margin-bottom: 10px;
+}
